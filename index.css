@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    color: crimson; 
+    text-align: center;
+    background-image: url(https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAxvAAAAJGE1NjljZDI5LWI3ZWUtNDU1OC05ZTM3LTlhZDg0ZTY2M2ExNw.jpg)}
+
+.h1-popout {
+    text-shadow:2px 3px rgb(119, 98, 90);
+    font-size: 3em;
+    }
+
+.boxup {
+    border-style: solid;
+    border-radius: 15px;
+    }   
+
+.menuitem{
+    padding: 10px;
+    list-style-position: inside;
+}
+
+.circle {
+    width: 128px;
+    border-radius: 40px;
+    border-to
+}
+
+.big{
+    position: relative;
+    left: 300px;
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+}
+
